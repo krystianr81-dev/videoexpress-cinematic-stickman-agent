@@ -13,6 +13,7 @@
 - [ ] Eight beats progress from problem to attempts, intervention, stopped cart, and payoff; no accidental action reset.
 - [ ] One standalone Nora master is saved and reused; supporting characters and recurring prop identities remain stable.
 - [ ] Each image begins at its planned incoming state and contains required props, contacts, and action space.
+- [ ] Scene 4 starts with wedge already in hand; scene 6 contains wheel/small left-base wedge only; scene 7 shows socket/pin/one entering hand; scene 8 is solo Nora with helpers offscreen.
 - [ ] Cart travel direction, wheel count, empty cart state, brake socket, and wedge remain consistent.
 - [ ] Clock shop stays left with its ROUND brass clock above the door; cart travels from upper right downhill left on the established camera side.
 - [ ] The only wedge starts on Nora's belt, moves to her hand in scene 4, and stays at the wheel after scene 5; no duplicate remains at belt or doorway.
@@ -35,5 +36,6 @@
 - [ ] Auto Align, if used, is followed by boundary inspection; actual runtime is measured.
 - [ ] Saved project verified; completed export exists and opens before being described as finished.
 - [ ] Final report states what was completed and any unreviewed audiovisual detail or feature limitation.
+- [ ] Rejected cab-like early versions are replaced by corrected open-top red wooden handcart scenes 1 and 2; replacement clips and final continuity are actually reviewed before being described as verified.
 - [ ] No credentials, private session data, unrelated changes, purchases, deletion, or unrequested public publishing.
 

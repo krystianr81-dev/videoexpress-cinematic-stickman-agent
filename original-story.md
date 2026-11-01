@@ -4,9 +4,9 @@ Original story and narration. Target: 8 scenes, Vertical 9:16, approximately 30�
 
 ## Character and set lock
 
-**Nora:** oversized warm cream circular head, plum semicircular hair cap with tiny side tufts, brass round glasses, tiny ink eyes, expressive black brows, thin black stick arms and legs, teal waistcoat, ochre sleeves, burgundy scarf, brown belt, dark boots. Keep this approved master identity and costume stable. One wooden wedge starts on her belt, moves to her right hand in scene 4, then to the ground in scene 5. Never duplicate it. Full-body master on a neutral background, separated hands, relaxed three-quarter pose. Every supporting person has the same cream-head/stick-limb anatomy; two helpers wear respectively red and blue torsos.
+**Nora:** oversized warm cream circular head, plum semicircular hair cap with tiny side tufts, brass round glasses, tiny ink eyes, expressive black brows, thin black stick arms and legs, teal waistcoat, ochre sleeves, burgundy scarf, brown belt, dark boots. Keep this approved master identity and costume stable. One wooden wedge starts on her belt, moves to her right hand in scene 4, then to the ground in scene 5. Never duplicate it. Full-body master on a neutral background, separated hands, relaxed three-quarter pose. Every supporting person has the same cream-head/stick-limb anatomy; two helpers wear respectively red and blue torsos and first appear in scene 3. Scenes 1 and 8 show Nora alone; scenes 2 and 6 show no people; scene 7 shows only one thin black stick hand.
 
-**Set:** illustrated western festival street viewed from the south side. Clock shop is screen left with one ROUND brass clock above the door. Street slopes from upper screen right downhill toward screen left. Red-and-gold pennants cross overhead. One empty four-wheel wooden festival cart begins upper right and rolls left; its near front wheel and small brake-linkage socket are visible from the chosen side. Keep the camera south of the action axis. No passengers or bystanders in the cart's path. One wooden wedge starts on Nora's belt. One fallen brake pin stays on a fixed dusty patch beside the cart's initial wheel position. The cart travels only a few wheel lengths before stopping, so that pin remains near the stopped cart; it never travels with the wheel. The scene is a stylized narrative, not a practical guide to stopping moving vehicles.
+**Set:** illustrated western festival street viewed from the south side. Clock shop is screen left with one ROUND brass clock above the door. Street slopes from upper screen right downhill toward screen left. Red-and-gold pennants cross overhead. One empty OPEN-TOP RED WOODEN four-wheel HANDCART begins upper right and rolls left; its near front wheel and small brake-linkage socket are visible from the chosen side. Keep the camera south of the action axis. No passengers or bystanders in the cart's path. One wooden wedge starts on Nora's belt. One fallen brake pin stays on a fixed dusty patch beside the cart's initial wheel position. The cart travels only a few wheel lengths before stopping, so that pin remains near the stopped cart; it never travels with the wheel. The scene is a stylized narrative, not a practical guide to stopping moving vehicles.
 
 **Shared image direction:** vertical 9:16 hand-drawn 2D illustration; oversized cream circular heads, expressive ink faces, thin black limbs, colored torso costumes, bold slightly irregular black outlines, restrained cel shading; richly painted warm western street, ochre dust, wooden facades, layered depth. Reserve clean lower-center space for later captions. No text baked into artwork. Maintain the master identity and locked set above in every prompt.
 
@@ -14,21 +14,21 @@ Original story and narration. Target: 8 scenes, Vertical 9:16, approximately 30�
 
 **Narration:** “When the festival cart broke loose, everyone ran toward the shouting. Nora, the clockmaker, looked at the ground.”
 
-**Image prompt:** Apply shared direction. Wide three-quarter street view from the south, clock shop left with round brass clock above its door, street sloping from upper right down toward left. Nora stands at the threshold on the left, looking toward a small metal brake pin on the dusty ground beside the cart's near wheel. One wooden wedge is secured at her belt. Upper right, one empty four-wheel cart has just started rolling left; two distant helpers in red and blue turn toward it. Keep its path empty and its near front wheel readable.
+**Image prompt:** Apply shared direction. Wide vertical three-quarter view of the western festival street from the established south side. SOLO Nora stands in the foreground LEFT outside the clock shop with its ROUND brass clock above the door, looking down toward one fallen silver brake pin on the cobbles. A single wooden wedge remains secured at her belt. In the background RIGHT, one empty open-top red wooden four-wheel HANDCART begins rolling downhill LEFT. No helpers or other people are visible. The cart has an open load bed and wooden sideboards, with no cab, roof, motor, or enclosed body. Preserve painted street depth and overhead bunting.
 
-**Motion prompt:** In a steady wide view, the empty cart begins rolling slowly downhill to the left as the two helpers turn and hurry toward its front. Nora remains beside the clock shop, lowering her gaze toward the metal pin beside the cart's initial wheel position. End with the cart moving left and Nora's attention fixed downward; keep the clock shop left and travel direction unchanged.
+**Motion prompt:** In a steady wide view, SOLO Nora remains foreground left and lowers her gaze to the single fallen silver brake pin on the cobbles. The empty open-top red wooden four-wheel handcart in the background right rolls slowly downhill left. Keep the wedge on her belt, the shop and round clock left, and the pin fixed on the ground. No helpers enter; preserve the open cart body without a cab or roof.
 
-**Handoff:** cart continues left; Nora has not picked anything up; wedge remains on her belt.
+**Handoff:** Open-top red wooden handcart rolls left; Nora watches the grounded silver pin; wedge remains on belt; no helpers shown yet.
 
 ## 2 — Missing detail
 
 **Narration:** “A brake pin lay in the dust. Without it, the lever beside the wheel swung loose.”
 
-**Image prompt:** Apply shared direction. Tight low side view of the same cart's near front wheel and dangling brake linkage, cart pointed left. The small empty pin socket is visible. The single fallen pin lies on its fixed dusty patch beside the wheel's initial position; Nora is visible toward the shop at left with the wooden wedge still secured at her belt. Keep the mechanism simple and readable rather than a technical diagram.
+**Image prompt:** Apply shared direction. No-people macro insert of the nearest wooden wheel and red wooden sideboard of the same open-top handcart. Beside the wheel, one loose brake linkage hangs by its visibly EMPTY pin socket. One fallen silver brake pin lies on the cobbles on its fixed ground patch. Cart points downhill left. Tight readable illustrated mechanical detail: irregular black ink contours, painted red wood, simple cel shading. No people, faces, hands, cab, roof, motor, enclosed body, text, or diagram labels. The larger cart remains open-top outside the crop.
 
-**Motion prompt:** The camera tracks gently with the near front wheel as the cart rolls left. The loose brake lever swings once beside its empty socket while dust lifts from the wheel. Finish on the clearly visible loose linkage; do not add parts, repair the mechanism, or reverse the cart. The fallen pin stays on the ground.
+**Motion prompt:** Hold a close side insert as the open-top red wooden handcart wheel rolls slowly left beside its red wooden sideboard. The loose brake linkage swings once beside the empty pin socket, while the single fallen silver pin remains fixed on the cobbles. No people enter, no brake parts repair themselves, and no cab, roof, or motor appears.
 
-**Handoff:** linkage remains broken; cart still rolling; pin remains on ground.
+**Handoff:** Open-top red wooden handcart continues left; linkage loose and socket empty; silver pin stays on its ground patch; cut to helpers attempting to stop it.
 
 ## 3 — Wrong approach
 
@@ -44,11 +44,11 @@ Original story and narration. Target: 8 scenes, Vertical 9:16, approximately 30�
 
 **Narration:** “Nora grabbed the wedge from her belt and took the shortest path to the near wheel.”
 
-**Image prompt:** Apply shared direction. Medium shot at the same shop threshold, round brass clock above the door, cart visible rolling left in middle distance. Nora stands with her right hand poised over the single wooden wedge secured at her belt; left hand free. The pin stays on its fixed dusty patch beside the cart's initial wheel position. A clear short diagonal path leads from Nora toward the cart's near wheel.
+**Image prompt:** Apply shared direction. Medium shot at the same shop threshold, round brass clock above the door, cart visible rolling left in middle distance. Nora already holds the single wooden wedge in her right hand, belt holder empty, with her torso turned toward the cart's near wheel. Her left hand is free. The pin stays on its fixed dusty patch near the cart. A clear short diagonal path leads to the near wheel. This image is after the grab described in past-tense narration; do not stage another reach.
 
-**Motion prompt:** Nora takes the single wooden wedge from her belt with her right hand, leaving the belt holder empty, then takes the short diagonal path across the clear foreground toward the near wheel with quick purposeful steps. Follow her modestly from the same south side. End beside the cart's near side, keeping her out of its direct path, wedge still in her right hand.
+**Motion prompt:** Nora already carries the single wooden wedge in her right hand and walks purposefully along the short clear diagonal path toward the near wheel. Follow her modestly from the established south side. Keep her belt holder empty and her left hand free. End beside the near wheel, outside its direct path, wedge still in hand; do not repeat a belt reach.
 
-**Handoff:** Nora holds wedge beside slowly moving cart; belt holder empty; pin remains on its fixed dusty patch near the cart.
+**Handoff:** Nora carries the wedge beside the slowly moving cart; belt holder empty; pin stays fixed near the cart.
 
 ## 5 — Small intervention
 
@@ -64,35 +64,37 @@ Original story and narration. Target: 8 scenes, Vertical 9:16, approximately 30�
 
 **Narration:** “The cart jolted, slowed, and stopped. For a moment, the whole street went still.”
 
-**Image prompt:** Apply shared direction. Medium side view with the wheel just contacting the same wedge, cart still angled left and empty. Nora stands safely near side with both hands clear and belt holder empty. Red and blue helpers remain separated behind her, watching. Street bend remains ahead on the left. Keep all four cart wheels coherent and no duplicate wedge.
+**Image prompt:** Apply shared direction. Close insert of only the nearest wooden cart wheel and one SMALL wooden wedge touching the wheel's LEFT base on the cobbled dusty street. The cart points downhill left; keep the wheel rim, ground contact, and wedge distinct. No people, faces, hands, or other wheels are visible in this tight crop. Detailed painted timber and cobbles, imperfect ink contour, restrained cel shading; leave room for captions.
 
-**Motion prompt:** The cart rocks once as its near front wheel presses against the wedge, then settles completely still. A little dust drifts past. Nora and both helpers hold a brief relieved reaction, looking at the stopped wheel. End in a stable stop with the wedge visibly lodged at that wheel.
+**Motion prompt:** Hold a fixed close insert of the nearest wooden wheel and the small wedge touching its left base. The wheel rocks once against the wedge, then settles completely still. A little dust drifts over the cobbles. Keep the wedge small, grounded, and fixed at the wheel's left base; no people enter the shot.
 
-**Handoff:** cart and wedge remain stationary; characters react.
+**Handoff:** Wheel and small wedge stationary; cut to a detail of the unrepaired brake mechanism.
 
 ## 7 — Recognition
 
 **Narration:** “Nora pointed to the empty brake socket, then the fallen pin beside the cart.”
 
-**Image prompt:** Apply shared direction. Medium three-quarter shot of Nora facing the two helpers on the near side of the stationary cart. The chocked near front wheel and empty brake socket remain visible at left. Nora's empty left hand is poised to indicate that socket. One metal pin is visible on its fixed dusty patch near the stopped cart, a few wheel lengths behind the front wheel. Keep wedge fixed under the wheel, belt holder empty; Nora holds nothing.
+**Image prompt:** Apply shared direction. Macro insert of the empty brake-pin socket beside the stationary red cart wheel, with one fallen silver pin on the cobbles nearby. A single thin black stick hand enters from screen right, poised to indicate the socket. No face, torso, helpers, or extra hands appear. Keep the chocked wheel stationary; the small wedge remains at its left base, visible only if the crop permits. Thick imperfect ink lines and painted 2D detail; no diagram labels or generated text.
 
-**Motion prompt:** Nora looks toward the empty brake socket and points once with her left hand, then indicates the single fallen pin on its fixed dusty patch near the stopped cart. The two helpers follow both gestures with their eyes. Keep the cart and wedge completely still. Finish with the cause and solution visually connected across the frame.
+**Motion prompt:** In a fixed macro view, one thin black stick hand enters from the right and points first to the empty brake-pin socket, then down toward the single fallen silver pin on the cobbles. No face enters. The red cart wheel, small chock, socket, and pin remain stationary; nothing is repaired or picked up.
 
-**Handoff:** pin remains on its fixed dusty patch near the stopped cart; wedge remains under wheel; all understand.
+**Handoff:** Socket remains empty; silver pin stays on cobbles; cart and small chock stationary.
 
 ## 8 — Payoff
 
 **Narration:** “They saw a heavy cart. Nora noticed one small failure. Sometimes saving the day begins with paying attention.”
 
-**Image prompt:** Apply shared direction. Warm final medium-wide view from south. Nora stands modestly beside the stopped cart, facing the red and blue helpers as they smile in relief. One wedge stays at the near front wheel; broken linkage is unchanged; belt holder is empty. Clock shop with round brass clock remains left, downhill bend farther left, pennants overhead. Use a gentle late-afternoon glow and leave lower center uncluttered for the closing caption.
+**Image prompt:** Apply shared direction. Solo waist-up portrait of Nora outside the LEFT clock shop, with its ROUND brass clock above the door and red-and-gold bunting behind. Keep her approved cream head, plum hair cap, brass glasses, teal waistcoat, ochre sleeves, and burgundy scarf. Nora looks toward grateful helpers OFFSCREEN, not into the lens. No supporting humans are visible. A blurred stationary wheel and small chock appear in the background. Warm painted western scenery, irregular ink contours, cel shading, clean lower-center caption space.
 
-**Motion prompt:** Make a restrained push toward Nora and the two helpers. Nora gives a small relieved smile, and the helpers exchange an appreciative nod toward her. Pennants move lightly overhead while the cart and wedge remain fixed. End on their shared reaction, without repairing the brake or restarting the cart.
+**Motion prompt:** Make a restrained push toward Nora's solo waist-up portrait outside the left clock shop. Looking toward the grateful helpers offscreen, she gives a modest relieved smile and one small nod. Bunting moves lightly; the blurred wheel and small chock stay stationary behind her. No other person enters and the cart never restarts.
 
-**Handoff:** complete; leave the resolution visibly intact.
+**Handoff:** Complete on Nora's modest reaction; cart and small chock remain stationary.
 
 ## Assembly and captions
 
 Generate speech before committing exact clip lengths. Keep scene breaks at complete clauses, reduce gaps between scenes, and maintain one narrator. Caption only the words actually spoken; synchronize short groups of one or two words after measuring the audio. Use white heavy sans-serif lettering with thick black outline near the lower center, above interface-safe space. Do not add scene labels to speech. Verify the final saved project and exported video before reporting the video complete.
+
+
 
 
 
