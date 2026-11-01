@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "project_title": "The Quiet Clockmaker",
+  "aspect_ratio": "9:16",
+  "planned_scene_count": 8,
+  "planned_narration_words": 157,
+  "production_status": "in_progress",
+  "references": {
+    "character_master_asset_id": "60cbfa1b-d99c-4ac1-af9f-43c74df43778",
+    "environment_reference_asset_id": "3a635fdd-b71d-417b-84f9-f984ff44ea3e",
+    "environment_reference_note": "Current production uses the accepted opening scene image as Reference Photo 2; it is not a separately generated empty-set reference."
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "When the festival cart broke loose, everyone ran toward the shouting. Nora, the clockmaker, looked at the ground.",
+      "source_image_asset_id": "3a635fdd-b71d-417b-84f9-f984ff44ea3e",
+      "character_reference_asset_id": "60cbfa1b-d99c-4ac1-af9f-43c74df43778",
+      "environment_reference_asset_id": "3a635fdd-b71d-417b-84f9-f984ff44ea3e",
+      "video_job_id": "1368f758-16b2-4e8e-9e56-f46dca3cebe7",
+      "job_status": "submitted",
+      "reported_audio_duration_seconds": 5,
+      "reported_audio_duration_source": "VideoExpress UI; not independently measured",
+      "actual_video_duration_seconds": null,
+      "timeline_start_seconds": null,
+      "timeline_end_seconds": null,
+      "output_asset_id": null,
+      "generation_attempts": 1,
+      "review": {
+        "source_image": "accepted",
+        "video_visuals": "pending",
+        "audio_listening": "pending",
+        "captions": "pending",
+        "continuity": "pending"
+      },
+      "notes": "Opening matches the illustrated treatment but is more detailed than the reference. Final clip status and measured runtime remain pending."
+    }
+  ],
+  "remaining_scene_ids": [2, 3, 4, 5, 6, 7, 8],
+  "scene_record_template": {
+    "scene_id": null,
+    "narration": "",
+    "source_image_asset_id": null,
+    "character_reference_asset_id": "60cbfa1b-d99c-4ac1-af9f-43c74df43778",
+    "environment_reference_asset_id": "3a635fdd-b71d-417b-84f9-f984ff44ea3e",
+    "video_job_id": null,
+    "job_status": "not_submitted",
+    "reported_audio_duration_seconds": null,
+    "reported_audio_duration_source": null,
+    "actual_video_duration_seconds": null,
+    "timeline_start_seconds": null,
+    "timeline_end_seconds": null,
+    "output_asset_id": null,
+    "generation_attempts": 0,
+    "review": {
+      "source_image": "pending",
+      "video_visuals": "pending",
+      "audio_listening": "pending",
+      "captions": "pending",
+      "continuity": "pending"
+    },
+    "notes": ""
+  },
+  "completion": {
+    "actual_runtime_seconds": null,
+    "captions_status": "pending",
+    "timeline_assembled": false,
+    "save_verified": false,
+    "export_status": "not_started",
+    "export_file_or_url": null,
+    "export_opens_verified": false
+  }
+}
