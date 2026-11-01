@@ -17,7 +17,9 @@
 - [ ] Clock shop stays left with its ROUND brass clock above the door; cart travels from upper right downhill left on the established camera side.
 - [ ] The only wedge starts on Nora's belt, moves to her hand in scene 4, and stays at the wheel after scene 5; no duplicate remains at belt or doorway.
 - [ ] One fallen pin stays on a fixed dusty patch near the cart, not at the shop or attached to a moving wheel; scene 7 indicates the empty socket and that pin.
-- [ ] Narration is original, roughly 140–160 words, spoken clearly by one verified available system voice.
+- [ ] Narration is original; the included revision is 132 words in eight scenes, spoken by one verified available system voice.
+- [ ] Every TTS entry is at most the visible character limit (observed: 120 characters, including spaces/punctuation); entered text and its ending are read back before generation, with no silent truncation.
+- [ ] Longer lines are shortened or split into additional meaningful scenes; actual generated durations determine runtime, not a guessed word count.
 - [ ] Narration stays in the speech field; visual prompts contain no spoken lines.
 - [ ] Default lip-sync is off; facial acting is not presented as verified speech synchronization.
 - [ ] Captions use actual measured speech timing, bold white text, black outline, lower-center placement, and readable safe margins.

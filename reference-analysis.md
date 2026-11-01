@@ -16,7 +16,7 @@ Bold white lettering with a strong black outline appears near the lower center. 
 
 The transcript clearly supports a voice-over narrative: a cowboy story about Slow Eddie drawing second, followed by a reflex explanation. The adaptation uses the general sequence of hook, escalating action, explanatory reveal, and thematic payoff, while replacing the premise, protagonist, plot, and spoken text completely.
 
-Brisk narration at roughly 185 words per minute is a pacing estimate from transcript amount and reference duration. It is not an audio-derived measurement. The sample times do not establish every edit or shot duration; the new eight-scene plan is an independent pacing design rather than an exact cut map.
+The exported transcript contains approximately 219 whitespace-separated words after timestamps and music markers are removed. Dividing that count by the approximately 56-second reference duration gives about 235 words per minute. This is a transcript-based estimate, not an acoustic measurement; it does not establish pauses, delivery quality, or exact spoken timing. The sample times do not establish every edit or shot duration; the new eight-scene plan is an independent pacing design rather than an exact cut map.
 
 ## Lip-sync interpretation
 

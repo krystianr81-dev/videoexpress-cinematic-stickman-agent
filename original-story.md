@@ -1,6 +1,6 @@
 # The Quiet Clockmaker
 
-Original story and narration. Target: 8 scenes, Vertical 9:16, approximately 50–60 seconds after measured speech. Narration: 157 words. Brisk but intelligible offscreen delivery; no character dialogue or narrator lip-sync.
+Original story and narration. Target: 8 scenes, Vertical 9:16, approximately 30–40 seconds, provisional until actual clip durations are measured. Narration: 132 words. Brisk but intelligible offscreen delivery; no character dialogue or narrator lip-sync.
 
 ## Character and set lock
 
@@ -10,7 +10,7 @@ Original story and narration. Target: 8 scenes, Vertical 9:16, approximately 50�
 
 **Shared image direction:** vertical 9:16 hand-drawn 2D illustration; oversized cream circular heads, expressive ink faces, thin black limbs, colored torso costumes, bold slightly irregular black outlines, restrained cel shading; richly painted warm western street, ochre dust, wooden facades, layered depth. Reserve clean lower-center space for later captions. No text baked into artwork. Maintain the master identity and locked set above in every prompt.
 
-## 1 — Hook / approximately 7 seconds
+## 1 — Hook
 
 **Narration:** “When the festival cart broke loose, everyone ran toward the shouting. Nora, the clockmaker, looked at the ground.”
 
@@ -20,7 +20,7 @@ Original story and narration. Target: 8 scenes, Vertical 9:16, approximately 50�
 
 **Handoff:** cart continues left; Nora has not picked anything up; wedge remains on her belt.
 
-## 2 — Missing detail / approximately 7 seconds
+## 2 — Missing detail
 
 **Narration:** “A brake pin lay in the dust. Without it, the lever beside the wheel swung loose.”
 
@@ -30,9 +30,9 @@ Original story and narration. Target: 8 scenes, Vertical 9:16, approximately 50�
 
 **Handoff:** linkage remains broken; cart still rolling; pin remains on ground.
 
-## 3 — Wrong approach / approximately 7 seconds
+## 3 — Wrong approach
 
-**Narration:** “Two strong helpers pushed against the front. Their boots slipped. The empty cart kept rolling toward the bend in the street.”
+**Narration:** “Two helpers pushed against the front. Their boots slipped. The empty cart kept rolling toward the bend.”
 
 **Image prompt:** Apply shared direction. Medium side view from south. The red- and blue-torso helpers stand to the left of the empty cart, facing right with hands against its front board, feet braced and clearly separated. Cart points and moves left. The street bend lies farther left with no people in its path. Nora is small at far left by the shop. Show the same four-wheel cart and same loose near-wheel lever.
 
@@ -40,9 +40,9 @@ Original story and narration. Target: 8 scenes, Vertical 9:16, approximately 50�
 
 **Handoff:** helpers are near side, no longer blocking the cart; Nora still at shop.
 
-## 4 — Decision / approximately 6 seconds
+## 4 — Decision
 
-**Narration:** “Nora didn't join them. She grabbed the wooden wedge from her belt and took the shortest path to the near wheel.”
+**Narration:** “Nora grabbed the wedge from her belt and took the shortest path to the near wheel.”
 
 **Image prompt:** Apply shared direction. Medium shot at the same shop threshold, round brass clock above the door, cart visible rolling left in middle distance. Nora stands with her right hand poised over the single wooden wedge secured at her belt; left hand free. The pin stays on its fixed dusty patch beside the cart's initial wheel position. A clear short diagonal path leads from Nora toward the cart's near wheel.
 
@@ -50,9 +50,9 @@ Original story and narration. Target: 8 scenes, Vertical 9:16, approximately 50�
 
 **Handoff:** Nora holds wedge beside slowly moving cart; belt holder empty; pin remains on its fixed dusty patch near the cart.
 
-## 5 — Small intervention / approximately 7 seconds
+## 5 — Small intervention
 
-**Narration:** “She crouched beside the near wheel, set the wedge against its path, then stepped back as the wooden edge caught beneath the rim.”
+**Narration:** “She set the wedge in the wheel's path, then stepped back as the wooden edge caught beneath the rim.”
 
 **Image prompt:** Apply shared direction. Close readable side view of Nora on the near side of the slowly moving empty cart. She crouches beside, outside the direct wheel track, right hand holding one wooden wedge low near the ground just ahead of the near front wheel, left hand balancing away from wheel. Cart moves left. Her belt holder is empty. The two helpers stand clear in the background. Simplify contacts and keep fingers and wheel distinct.
 
@@ -60,7 +60,7 @@ Original story and narration. Target: 8 scenes, Vertical 9:16, approximately 50�
 
 **Handoff:** wedge contacts near front wheel; Nora clear; cart decelerating.
 
-## 6 — Stop / approximately 4 seconds
+## 6 — Stop
 
 **Narration:** “The cart jolted, slowed, and stopped. For a moment, the whole street went still.”
 
@@ -70,9 +70,9 @@ Original story and narration. Target: 8 scenes, Vertical 9:16, approximately 50�
 
 **Handoff:** cart and wedge remain stationary; characters react.
 
-## 7 — Recognition / approximately 6 seconds
+## 7 — Recognition
 
-**Narration:** “The helpers stared at the little wedge. Nora pointed to the empty socket, then the fallen pin beside the cart.”
+**Narration:** “Nora pointed to the empty brake socket, then the fallen pin beside the cart.”
 
 **Image prompt:** Apply shared direction. Medium three-quarter shot of Nora facing the two helpers on the near side of the stationary cart. The chocked near front wheel and empty brake socket remain visible at left. Nora's empty left hand is poised to indicate that socket. One metal pin is visible on its fixed dusty patch near the stopped cart, a few wheel lengths behind the front wheel. Keep wedge fixed under the wheel, belt holder empty; Nora holds nothing.
 
@@ -80,9 +80,9 @@ Original story and narration. Target: 8 scenes, Vertical 9:16, approximately 50�
 
 **Handoff:** pin remains on its fixed dusty patch near the stopped cart; wedge remains under wheel; all understand.
 
-## 8 — Payoff / approximately 6 seconds
+## 8 — Payoff
 
-**Narration:** “They had seen a heavy cart. She had noticed one small failure. Sometimes the person who saves the day is the one paying attention.”
+**Narration:** “They saw a heavy cart. Nora noticed one small failure. Sometimes saving the day begins with paying attention.”
 
 **Image prompt:** Apply shared direction. Warm final medium-wide view from south. Nora stands modestly beside the stopped cart, facing the red and blue helpers as they smile in relief. One wedge stays at the near front wheel; broken linkage is unchanged; belt holder is empty. Clock shop with round brass clock remains left, downhill bend farther left, pennants overhead. Use a gentle late-afternoon glow and leave lower center uncluttered for the closing caption.
 
@@ -93,5 +93,6 @@ Original story and narration. Target: 8 scenes, Vertical 9:16, approximately 50�
 ## Assembly and captions
 
 Generate speech before committing exact clip lengths. Keep scene breaks at complete clauses, reduce gaps between scenes, and maintain one narrator. Caption only the words actually spoken; synchronize short groups of one or two words after measuring the audio. Use white heavy sans-serif lettering with thick black outline near the lower center, above interface-safe space. Do not add scene labels to speech. Verify the final saved project and exported video before reporting the video complete.
+
 
 
